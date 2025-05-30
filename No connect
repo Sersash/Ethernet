@@ -4,3 +4,10 @@ Checked for conflicts...
 System found several conflicts in system, recommended to check the list.
 Ending with code 12530
 *
+Код файла 
+var = t.Substruct(1252230);
+for (int i = 0;i < array.length;i++) {
+    if (i == 0) {
+    MessageBox.Show("Сохранены изменения в репозиторий");
+    }
+}
